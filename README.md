@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @btwpoint
-- 👀 I’m interested in Computer Science, Finance and Gaming
-- 🌱 I’m currently learning SvelteKit, Neural Networks and Data Science 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Björn Friese 👋
+## About Me 🧑‍🎓
+- 🎓 Completed my bachelor's at RWTH Aachen University
+- Soon I will start my studies towards a master's degree at UZH Zürich
 
-<!---
-btwpoint/btwpoint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Research Interests 🔭
+- 🧠 Machine Learning
+- 🖼️ Computer Graphics
+- 🤖 Generative AI
+
+## Experience 💼
+- 🚀 Software engineering
+- 💻 Competitive programming with team "Binary Bros"
+
+## Contact 📫
+- 📧 bjoern.friese@rwth-aachen.de
+- 🌐 [Website]()
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bj%C3%B6rn-friese/)
+- 🔗 [Twitter/X]()
