@@ -1,19 +1,20 @@
 # Björn Brauer 👋
 ## About Me 🧑‍🎓
-- 🎓 Completed my bachelor's at RWTH Aachen University
-- Soon I will start my studies towards a master's degree at UZH Zürich
+- 🎓 Computer Science BSc at RWTH Aachen University
+- 📈 Currently studying Informatics MSc at University of Zurich
 
 ## Research Interests 🔭
-- 🧠 Machine Learning
+- 🧠 Artificial Intelligence
+- 🤖 Machine Learning
+- 👀 Computer Vision
 - 🖼️ Computer Graphics
-- 🤖 Generative AI
 
 ## Experience 💼
 - 🚀 Software engineering
-- 💻 Competitive programming with team "Binary Bros"
+- 💻 Competitive programming
 
 ## Contact 📫
-- 📧 [Email](mailto:)
-- 🌐 [Website]()
-- 🔗 [LinkedIn](https://www.linkedin.com/in/bj%C3%B6rn-friese/)
-- 🔗 [Twitter/X]()
+- 📧 [Email](mailto:btw.brauer@gmail.com)
+- 🌐 [Website](https://btwbrauer.me)
+- 🔗 [LinkedIn](https://linkedin.com/in/btwbrauer/)
+- 🔗 [Twitter/X](https://x.com/btwbrauer)
