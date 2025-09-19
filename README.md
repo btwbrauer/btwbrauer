@@ -1,5 +1,5 @@
-# Björn Brauer 👋
-## About Me 🧑‍🎓
+# Björn Brauer 👋🏻
+## About Me 👨🏻‍🎓
 - 🎓 Graduated in [Computer Science BSc at RWTH Aachen University](https://www.rwth-aachen.de/cms/root/studium/vor-dem-studium/studiengaenge/liste-aktuelle-studiengaenge/studiengangbeschreibung/~bnzs/informatik-b-sc-/?lidx=1)
 - 📈 Currently studying [Informatics MSc at University of Zurich](https://www.oec.uzh.ch/en/academic-programs/master/it/ai.html)
 
