@@ -25,8 +25,30 @@
 
 ## 💻 Tech Stack:
 
-![Rust](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Dioxus](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![NixOS](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=NixOS&logoColor=white)
-![PostgraSQL](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+Operating Systems
+![NixOS](https://img.shields.io/badge/NixOS-02569B?style=for-the-badge&logo=NixOS&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-02569B?style=for-the-badge&logo=linux&logoColor=white)
+
+
+Programming Languages
+![Rust](https://img.shields.io/badge/Rust-323330?style=for-the-badge&logo=rust&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Rust-323330?style=for-the-badge&logo=python&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Rust-323330?style=for-the-badge&logo=rust&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=cplusplus&logoColor=F7DF1E)
+![R](https://img.shields.io/badge/R-323330?style=for-the-badge&logo=r&logoColor=F7DF1E)
+
+Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4EA94B?style=for-the-badge&logo=postgresql&logoColor=white)
+
+Version Control Systems
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Jujutsu](https://img.shields.io/badge/Jujutsu-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+Libraries
+![OpenCV](https://img.shields.io/badge/PostgreSQL-4EA94B?style=for-the-badge&logo=postgresql&logoColor=white)
+![NumPy](https://img.shields.io/badge/PostgreSQL-4EA94B?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/PostgreSQL-4EA94B?style=for-the-badge&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/PostgreSQL-4EA94B?style=for-the-badge&logo=polars&logoColor=white)
+
+Browsers
+librewolf
