@@ -5,7 +5,7 @@ AI and finance at the University of Zurich (MSc, 2028), computer science from RW
 - 🔭 IT and operations for a Zurich fashion brand
 - 🤖 My own agent toolchain, where tests and type checks decide what ships
 - ❄️ A six-host NixOS fleet; most of my code lives on its self-hosted Forgejo
-- 📈 Previously: Value-at-Risk for energy portfolios at Klafka & Hinz
+- 📈 Quant work at UZH: portfolio construction and deep-learning option pricing (both graded 6.0/6.0), credit stress testing on the ACTUS standard
 
 **Tools I use daily**
 
